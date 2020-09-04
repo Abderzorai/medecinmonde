@@ -1,0 +1,227 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 130%;
+    width: 130%;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    background-color: white;
+    margin: 2%;
+}
+
+.titre {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin: 0%;
+    background-color: #D9DADB;
+    padding: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-family: sans-serif;
+}
+
+.don {
+    background-color:
+    background: -webkit-linear-gradient(7deg, rgb(206, 206, 206), rgb(255, 255, 255));
+    background: linear-gradient(7deg, rgb(206, 206, 206), rgb(255, 255, 255));
+    
+    border: solid 1px;
+    border-radius: 12em;
+    border-color: grey;
+    padding: 25px;
+    margin-right: 40%;
+}
+
+.don:hover {background-image:url(https://images2.alphacoders.com/688/thumb-350-68870.jpg);}
+
+h2 {
+    text-align: center;
+}
+
+.alpha {
+    
+    margin: 5%;
+    padding: 5%;
+    border-top-right-radius: 20em;
+}
+
+
+.phase {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 5%;
+    border:solid 1px;
+    padding:2%;
+    background-color: #D9DADB;
+    
+    color:black;
+}
+
+q {
+    font-family: Times new roman;
+
+}
+
+.domaines {
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% ;
+    grid-gap: 10%;
+    grid-template-rows: 50% 50%;
+    grid-gap:15%;
+    border:solid 1px;
+    padding:2%;
+    padding-bottom: 4%;
+    padding-left: 5%;
+}
+
+.citation {
+    position: relative;
+    top: 40px;
+    left:20%;
+}
+
+.bottom {display:grid;
+    grid-template-columns: 50% 50%;
+    background-color: #D9DADB;
+    margin: o;
+    border:solid 1px;
+    border-color:black;
+    text-align:center;
+}
+
+.separation {
+    background-color:
+
+        #0D61B6;
+}
+
+.presentation {
+    border-left: solid;
+    padding: 20px;
+    border-color: black;
+}
+
+.presentation:hover {
+    background-color: white;
+}
+
+.Domaines {
+    border-left: solid;
+    padding: 20px;
+    border-color: black;
+}
+
+.movie {
+    border-left: solid;
+    padding: 20px;
+    border-color: black;
+}
+
+.movie:hover {
+    background-color: white;
+}
+.Domaines:hover {
+    background-color: white;
+}
+
+.Coordonnées {
+    border-left: solid;
+    padding: 20px;
+    border-color: black;
+}
+
+.Coordonnées:hover {
+    background-color: white;
+}
+
+.Contacts {
+    border-left: solid;
+    padding: 20px;
+    border-color: black;
+}
+
+.Contacts:hover {
+    background-color: white;
+}
+
+
+html {
+    border: 1px solid black;
+}
+
+body {
+    border: 1px solid grey;
+}
+
+
+
+.foot {
+    display: grid;
+    grid-template-columns: 8em 10em 15em;
+    background-color: #D9DADB;
+    color:white
+}
+
+.footing {border-left:solid 2px;
+border-color: white;
+padding:5px;
+margin:3px;
+font-family: sans-serif;
+}
+.footing:hover { background-color: white;}
+
+.assos {display:grid;
+grid-template-columns: 8% 8% 16% 18% 12% 8% 8%; 
+
+margin:3%;}
+
+.wwf {height: 50%;
+width:50%}
+.humanappel {height:50%;
+    width:50%}
+.emb {height: 50%;
+    width:50%}
+    .gates {height:50%; width:50%;
+        position:relative;
+        right:20%;}
+
+.croix {height:50%; width:50%;
+position:relative;
+right:50%;}
+
+.enfants {height:60%; width:60%;
+    position:relative;
+    right:80%;}
+    .oxfam {height:30%; width:80%;
+        position:relative;
+        right:50%;}
+
+        .medecin {width:80%;}
+
+        h3 {text-align:center;}
+
+        .commencement {text-align:center;
+    }
+    .secondo {text-align:center;}
+
+    .id {border:solid;}
+
+    .alpha1 {border:solid 1px;
+    ;}
+
+    .video {position:relative;
+    left:16%;
+margin:0%;}
+
+.videopres {text-align:center;
+padding:5%;
+font-size:150%;
+}
