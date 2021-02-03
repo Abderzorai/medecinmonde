@@ -16,4 +16,4 @@ n'hesitez pas a cliquer sur les liens pour voir sur quels sites ils enmenent
 
 # Credits 
 
-Zorai Abderrahman 
+Zorai Abderrahman Zoraiabderrahman@gmail.com
